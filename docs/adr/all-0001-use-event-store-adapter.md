@@ -1,4 +1,4 @@
-# ADR pj-0001: event-store-adapter を採用する
+# ADR all-0001: event-store-adapter を採用する
 
 - 日付: 2025-11-26
 - ステータス: 承認
